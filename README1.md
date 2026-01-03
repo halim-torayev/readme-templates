@@ -1,4 +1,4 @@
-# Hey There
+# Hey There 👋
 
 I'm Thijs - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
 
